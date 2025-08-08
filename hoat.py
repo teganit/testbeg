@@ -1,1 +1,1 @@
-print("hello teg");
+print("hello teg")
